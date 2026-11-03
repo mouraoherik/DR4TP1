@@ -1,0 +1,7 @@
+Aplicacao iniciada.
+Aplicacao iniciada.
+Pedido 1 recebido.
+Pedido 1 processado com sucesso.
+Aplicacao iniciada.
+Pedido 1 recebido.
+Pedido 1 processado com sucesso.

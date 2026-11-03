@@ -1,0 +1,14 @@
+/home/herik/RiderProjects/DR4TP1/Ex3/bin/Debug/net10.0/Ex3
+/home/herik/RiderProjects/DR4TP1/Ex3/bin/Debug/net10.0/Ex3.deps.json
+/home/herik/RiderProjects/DR4TP1/Ex3/bin/Debug/net10.0/Ex3.runtimeconfig.json
+/home/herik/RiderProjects/DR4TP1/Ex3/bin/Debug/net10.0/Ex3.dll
+/home/herik/RiderProjects/DR4TP1/Ex3/bin/Debug/net10.0/Ex3.pdb
+/home/herik/RiderProjects/DR4TP1/Ex3/obj/Debug/net10.0/Ex3.GeneratedMSBuildEditorConfig.editorconfig
+/home/herik/RiderProjects/DR4TP1/Ex3/obj/Debug/net10.0/Ex3.AssemblyInfoInputs.cache
+/home/herik/RiderProjects/DR4TP1/Ex3/obj/Debug/net10.0/Ex3.AssemblyInfo.cs
+/home/herik/RiderProjects/DR4TP1/Ex3/obj/Debug/net10.0/Ex3.csproj.CoreCompileInputs.cache
+/home/herik/RiderProjects/DR4TP1/Ex3/obj/Debug/net10.0/Ex3.dll
+/home/herik/RiderProjects/DR4TP1/Ex3/obj/Debug/net10.0/refint/Ex3.dll
+/home/herik/RiderProjects/DR4TP1/Ex3/obj/Debug/net10.0/Ex3.pdb
+/home/herik/RiderProjects/DR4TP1/Ex3/obj/Debug/net10.0/Ex3.genruntimeconfig.cache
+/home/herik/RiderProjects/DR4TP1/Ex3/obj/Debug/net10.0/ref/Ex3.dll

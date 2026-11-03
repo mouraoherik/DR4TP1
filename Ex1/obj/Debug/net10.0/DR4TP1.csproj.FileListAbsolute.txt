@@ -1,0 +1,14 @@
+/home/herik/RiderProjects/DR4TP1/DR4TP1/bin/Debug/net10.0/DR4TP1
+/home/herik/RiderProjects/DR4TP1/DR4TP1/bin/Debug/net10.0/DR4TP1.deps.json
+/home/herik/RiderProjects/DR4TP1/DR4TP1/bin/Debug/net10.0/DR4TP1.runtimeconfig.json
+/home/herik/RiderProjects/DR4TP1/DR4TP1/bin/Debug/net10.0/DR4TP1.dll
+/home/herik/RiderProjects/DR4TP1/DR4TP1/bin/Debug/net10.0/DR4TP1.pdb
+/home/herik/RiderProjects/DR4TP1/DR4TP1/obj/Debug/net10.0/DR4TP1.GeneratedMSBuildEditorConfig.editorconfig
+/home/herik/RiderProjects/DR4TP1/DR4TP1/obj/Debug/net10.0/DR4TP1.AssemblyInfoInputs.cache
+/home/herik/RiderProjects/DR4TP1/DR4TP1/obj/Debug/net10.0/DR4TP1.AssemblyInfo.cs
+/home/herik/RiderProjects/DR4TP1/DR4TP1/obj/Debug/net10.0/DR4TP1.csproj.CoreCompileInputs.cache
+/home/herik/RiderProjects/DR4TP1/DR4TP1/obj/Debug/net10.0/DR4TP1.dll
+/home/herik/RiderProjects/DR4TP1/DR4TP1/obj/Debug/net10.0/refint/DR4TP1.dll
+/home/herik/RiderProjects/DR4TP1/DR4TP1/obj/Debug/net10.0/DR4TP1.pdb
+/home/herik/RiderProjects/DR4TP1/DR4TP1/obj/Debug/net10.0/DR4TP1.genruntimeconfig.cache
+/home/herik/RiderProjects/DR4TP1/DR4TP1/obj/Debug/net10.0/ref/DR4TP1.dll
